@@ -1,2 +1,3 @@
 # hello-world
-Crosswalk&amp;Cordova&amp;Android开发流程
+Crosswalk+Cordova+Android Demo
+在AndroidStudio可以正常导入直接运行。
